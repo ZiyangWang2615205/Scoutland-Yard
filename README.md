@@ -1,6 +1,6 @@
 # Scotland Yard
 
-A Java implementation of the Scotland Yard board game model and AI player for the COMS10018 Object-Oriented Programming coursework.
+A Java implementation of the Scotland Yard board game model and AI player.
 
 This repository contains my coursework implementation for the Scotland Yard project. The project focuses on object-oriented design, immutable game state modelling, move generation, game progression, observer-style model updates, and AI decision-making.
 
