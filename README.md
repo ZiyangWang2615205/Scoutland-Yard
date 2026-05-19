@@ -1,4 +1,5 @@
 # Scotland Yard
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 A Java implementation of the Scotland Yard board game model and AI player.
 
